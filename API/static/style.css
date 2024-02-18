@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+form{
+    border: 2px solid red;
+    height: auto;
+    margin: 50px;
+}
+input{
+    display: block;
+    width: 60vw;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: none;
+    height: 60px;
+    font-size: 30px;
+}
+button{
+    margin: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 45%;
+    padding: 12px;
+    margin-right:auto;
+}
